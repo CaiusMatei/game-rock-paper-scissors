@@ -1,0 +1,37 @@
+
+body {
+    text-align: center;
+    background-image: url(rock.jpg);
+    background-size: cover;
+    
+}
+h1, h2{
+    color: white;
+
+}
+
+button, i{
+    font-size: 55px;
+    color:darksalmon;
+    margin: 10px;
+    
+    
+}
+#choose {
+    font-size: 25px;
+    color: red;
+}
+.computer{
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+}
+.user{
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+}
+span{
+    color: white;
+    font-size: 17px;
+}
