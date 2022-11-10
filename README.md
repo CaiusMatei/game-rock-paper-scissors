@@ -1,2 +1,6 @@
-﻿# Caius Matei's game-rock-paper-scissors
-     Play live [here.](https://chasacademy-caius-matei.github.io/game-rock-paper-scissors/)
+﻿#  Rock,Paper,Scissors-game by Caius Matei
+ Live version [here.](https://chasacademy-caius-matei.github.io/game-rock-paper-scissors/)
+
+ 
+ © 2022 Caius Matei
+  
